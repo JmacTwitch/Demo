@@ -40,11 +40,11 @@ body {
   line-height: 1.58;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  background-color: #191b21;
   font-family: sans-serif;
   display: block;
+  background-image: url("https://irrvlo.xyz/topo.svg");
+  background-color: #;
 }
-
 a {
   color: #3273dc;
   cursor: pointer;
